@@ -1,0 +1,2 @@
+firt file for interactive rebase squash
+
